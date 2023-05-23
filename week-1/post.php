@@ -31,3 +31,5 @@ echo $achternaam . PHP_EOL;
 echo $leeftijd . PHP_EOL;
 echo $adres . PHP_EOL;
 echo $email . PHP_EOL;
+
+// Het verschil is dat bij de get variabele de gegevens in de url komen te staan en je ze daar ook kan editen
